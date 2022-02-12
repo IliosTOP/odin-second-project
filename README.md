@@ -1,6 +1,6 @@
 # The Odin Project - Landing Page
 
-<a href="https://ilyaeru.github.io/odin-second-project/" >Live Preview</a><br>
+## <a href="https://ilyaeru.github.io/odin-second-project/" >Live Preview</a><br>
 Hello World!
 This is my second project after I have finished learning about flexbox in css.
 For this project I will use HTML and CSS so good luck to me!
