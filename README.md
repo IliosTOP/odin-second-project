@@ -23,6 +23,7 @@ The awesome image is Photo by Artem Beliaikin from Pexels
 - <a href="https://github.com/IlyaEru/TOP-Project-Restaurant-Page">Tenth Project - Restaurant Page</a> [HTML | CSS | JavaScript + ES6 Modules + Webpack]
 - <a href="https://github.com/IlyaEru/TOP-Project-Todo-List">Eleventh Project - Todo List</a> [HTML | CSS | JavaScript + ES6 Modules + Webpack]
 - <a href="https://github.com/IlyaEru/TOP-Project-Weather-App">Twelfth Project - Weather App</a> [HTML | CSS | JavaScript + Webpack + async API]
+- <a href="https://github.com/IlyaEru/TOP-Project-Battleship-game">Thirteenth Project - Battleship game</a> [HTML | CSS | JavaScript + Webpack + TDD with Jest]
 
 ## QA
 
